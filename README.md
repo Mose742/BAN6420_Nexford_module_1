@@ -1,5 +1,5 @@
 # BAN6420_Nexford_module_1
-This repository contains assignnemnt for module_1
+This repository contains assignnemnt for module 1
 # Highridge Construction Company Payroll System
 
 ## Author
