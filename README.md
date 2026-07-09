@@ -3,7 +3,8 @@ This repository contains assignnemnt for module 1
 # Highridge Construction Company Payroll System
 
 ## Author
-Moses Okumu
+Moses Mudavadi Okumu
+09 July 2026
 
 ## Project Overview
 
